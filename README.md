@@ -1,4 +1,4 @@
-# Laravel Przelewy24 module
+# Lumen Przelewy24 module
 
 This module makes integration with [przelewy24.pl](http://przelewy24.pl) payment system easier. It supports making payments using przelewy24.pl system.
  
