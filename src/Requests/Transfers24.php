@@ -26,7 +26,7 @@ use Illuminate\Config\Repository as Config;
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
-use Illuminate\Routing\UrlGenerator as Url;
+use Laravel\Lumen\Routing\UrlGenerator as Url;
 use Illuminate\Support\Str;
 
 /**

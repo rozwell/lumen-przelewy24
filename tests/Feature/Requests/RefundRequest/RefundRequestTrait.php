@@ -10,7 +10,7 @@ use Devpark\Transfers24\Services\Amount;
 use Devpark\Transfers24\Services\Gateways\ClientFactory;
 use GuzzleHttp\Client;
 use Illuminate\Config\Repository;
-use Illuminate\Routing\UrlGenerator;
+use Laravel\Lumen\Routing\UrlGenerator;
 use Illuminate\Support\Arr;
 use Mockery as m;
 use Mockery\MockInterface;

@@ -11,7 +11,7 @@ use Devpark\Transfers24\Forms\RefundForm;
 use Devpark\Transfers24\Requests\RefundRequest;
 use Devpark\Transfers24\Services\Crc;
 use Illuminate\Config\Repository as Config;
-use Illuminate\Routing\UrlGenerator as Url;
+use Laravel\Lumen\Routing\UrlGenerator as Url;
 use Illuminate\Support\Str;
 use Ramsey\Uuid\UuidFactory;
 

@@ -21,7 +21,7 @@ use Devpark\Transfers24\Translators\RegisterTranslator;
 use Illuminate\Config\Repository as Config;
 use Illuminate\Contracts\Container\Container;
 use Illuminate\Http\Request;
-use Illuminate\Routing\UrlGenerator as Url;
+use Laravel\Lumen\Routing\UrlGenerator as Url;
 use Mockery as m;
 use Tests\UnitTestCase;
 
